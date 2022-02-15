@@ -48,7 +48,7 @@ print(Fore.MAGENTA+"\n `````````````````````````````````````````````````````````
 print(" ")
 
 print(Fore.BLUE+"\n                            Created By BELECTRON . !                  ")
-print(Fore.GREEN+"\n       ID RUBIKA ~ @Creator_Tomaran - @Seyed_xxx  ***  ID CHANNEL ~ @Belectron_bot)
+print(Fore.GREEN+"\n       ID RUBIKA ~ @Creator_Tomaran - @Seyed_xxx  ***  ID CHANNEL ~ @Belectron_bot ")
 time.sleep(1.2)
 print(Fore.MAGENTA+"\n ````````````````````````````````````````````````````````````````` ")
 time.sleep(1.0)

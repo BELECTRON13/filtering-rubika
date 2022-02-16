@@ -55,7 +55,7 @@ time.sleep(1.0)
 print(" ")
 
 up = int(input("Type 1 for get Code ->->-> "))
-print(Fore.RED+"\n  code    👉 (/python2_2.7.17-1_netbot.py-warn%%_000)   👈 ")
+print(Fore.RED+"\n  code    👉 (/Rubika.filter.$000$-bug-https://s6.uupload.ir/files/screenshot_20220216-102745_chrome_0919.jpg{fil.fil.fil.0.2.2/bugs}) 👈 ")
 print(" ")
 time.sleep(1)
 
@@ -64,8 +64,8 @@ time.sleep(1.2)
 print(" ")
 
 up = int(input("Type 2 for get New Code Or if you do not want new code, type Ctrl+c  ->->-> "))
-print(Fore.RED+"\n  New code    👉 (/F./h.d.g.h.h.h/.1.4.6.7)   👈 ")
-print(Fore.RED+"\n  New code    👉 (.../proot_5.1.107-38_&^0000-ch64.deb.1.2.0.)  👈 ")
+print(Fore.RED+"\n  New code    👉 (/.php.io/%0000.7.2.3.4.1.1/py.bug-0.1\) 👈 ")
+print(Fore.RED+"\n  New code    👉 (.../proot_0.1.209-38_$^0010-jh64.deb.1.0.0.)  👈 ")
 time.sleep(1.2)
 print(" ")
 

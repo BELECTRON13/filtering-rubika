@@ -39,4 +39,6 @@
 
 >> `python filteringbel.py`
 
-@mojaleghin - @seyed_xxx
+# Chat With Me
+📬 [Click here](https://rubika.ir/seyed_xxx)
+   [Click here](https://rubika.ir/mojaleghin)

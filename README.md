@@ -1,6 +1,6 @@
 # filtering-rubika
 
-[Uploading Screenshot_20220611-120254_Termux.jpg…]()
+![Screenshot_20220611-120254_Termux](https://user-images.githubusercontent.com/80569235/173178430-7e2ab3eb-fab9-4f6d-8932-bd1697a269e6.jpg)
 
 📍 دریافت کد فیلتری از طریق ترمینال گوشی (ترموکس) :
 

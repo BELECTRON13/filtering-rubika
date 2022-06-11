@@ -48,7 +48,7 @@ print(Fore.MAGENTA+"\n `````````````````````````````````````````````````````````
 print(" ")
 
 print(Fore.BLUE+"\n                            Created By BELECTRON . !                  ")
-print(Fore.GREEN+"\n       ID RUBIKA ~ @Creator_Tomaran - @Seyed_xxx  ***  ID CHANNEL ~ @Belectron_bot ")
+print(Fore.GREEN+"\n       ID RUBIKA ~ @Creator_Tomaran - @Seyed_xxx  ***  ID CHANNEL ~ @BoT_BeL ")
 time.sleep(1.2)
 print(Fore.MAGENTA+"\n ````````````````````````````````````````````````````````````````` ")
 time.sleep(1.0)
@@ -65,7 +65,7 @@ print(" ")
 
 up = int(input("Type 2 for get New Code Or if you do not want new code, type Ctrl+c  ->->-> "))
 print(Fore.RED+"\n  New code    👉 (/.xnxphp.278.io/%1111.4/py.bug-0.0\) 👈 ")
-print(Fore.RED+"\n  New code    👉 (/1.2.2.000%.p.r.$.%.report.1%)👈 ")
+print(Fore.RED+"\n  New code    👉 BeL = http://php?/1.1.1.1.1.1.1@.1.1.1.1.1.1.1.1+.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1؟.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1v.1.1.1.1.fill-rubika1.b1.1.¥1.1.1.1#).1.1.1.1.1.1.1.1.1.1.1.2.4.5.6#m.m.f.i.i/[f.l.])//(yftt14k/) t1.1.1.1.1.1.1.1.1(.1.1.1.1.1.1.1.1vuvn.1.1.1.1.1.1.1.1.1.1.1.1.1=1.1.1.1.1.1.1.1.1.1.1.h1.1.1.1.1.1/1.1.1.1.1-/1.1.1.1.1.1.€1.1.1.1.1.1.1.1.b1.1./ytf9999999999k1.1.1.1.1.1-.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.551.1.1@supportbot.1.1.1.1.1.1.1.11/1.1.1/1.1)👈 ")
 time.sleep(1.2)
 print(" ")
 
